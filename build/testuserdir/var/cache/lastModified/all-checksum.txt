@@ -1,0 +1,17 @@
+/usr/local/netbeans-8.2/platform=1504780939000
+cluster./usr/local/netbeans-8.2/nb=1504780899000
+cluster./usr/local/netbeans-8.2/ide=1504780939000
+cluster./usr/local/netbeans-8.2/extide=1504780902000
+cluster./usr/local/netbeans-8.2/java=1504780938000
+cluster./usr/local/netbeans-8.2/apisupport=1504780918000
+cluster./usr/local/netbeans-8.2/websvccommon=1504780902000
+cluster./usr/local/netbeans-8.2/profiler=1504780939000
+cluster./usr/local/netbeans-8.2/harness=1504780918000
+cluster./usr/local/netbeans-8.2/javafx=1475191956000
+cluster./home/local/DANIELCASTELAO/jdominguezmartinan/NetBeansProjects/exemploPlugin/build/cluster=1524208746000
+user=1524208746000
+crc=7
+locale=es_ES
+branding=nb
+java.version=1.8.0_111
+java.vm.version=25.111-b14

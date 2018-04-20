@@ -1,0 +1,14 @@
+||:org.myorg.exemploPlugin.abrirNavegador
+org.myorg.exemploPlugin.abrirNavegador
+java.lang.StringBuilder
+org.openide.util.Exceptions
+java.lang.Runtime
+java.awt.event.ActionEvent
+java.io.IOException
+java.lang.Object
+java.awt.event.ActionListener
+java.lang.String
+||:org.myorg.exemploPlugin.Bundle
+java.lang.Object
+org.openide.util.NbBundle
+org.myorg.exemploPlugin.Bundle
